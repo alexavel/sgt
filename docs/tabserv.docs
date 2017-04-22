@@ -1,0 +1,85 @@
+001001|ALTERNADOR                                                     |REVISÃO           	 |001|										
+001002|ALTERNADOR                                                     |SUBSTITUIÇÃO        |001|
+001003|CORREIA DO ALTERNADOR                                          |SUBSTITUIÇÃO        |001|
+002001|BUZINA                                                         |SUBSTITUIÇÃO        |002|
+002002|CABO DO VELOCÍMETRO                                            |SUBSTITUIÇÃO        |002|
+002003|CHAVE DE SETA                                                  |SUBSTITUIÇÃO        |002|
+002004|CHAVE DE SETA C/ AIR BAG                                       |SUBSTITUIÇÃO        |002|
+002005|CILINDRO DE IGNIÇÃO                                            |SUBSTITUIÇÃO        |002|
+002006|DISTRIBUIDOR                                                   |SUBSTITUIÇÃO        |002|
+002007|FAROL                                                          |SUBSTITUIÇÃO        |002|
+002008|INTERRUPTOR DA VENTOINHA (CEBOLÃO)                             |SUBSTITUIÇÃO        |002|
+002009|INTERRUPTOR DE FAROL                                           |SUBSTITUIÇÃO        |002|
+002010|INTERRUPTOR DE MARCHA RÉ                                       |SUBSTITUIÇÃO        |002|
+002011|INTERRUPTOR DE ÓLEO MOTOR                                      |SUBSTITUIÇÃO        |002|
+002012|INTERRUPTOR DE TEMP. INJEÇÃO                                   |SUBSTITUIÇÃO        |002|
+002013|INTERRUPTOR DE TEMP. PAINEL                                    |SUBSTITUIÇÃO        |002|
+002014|INTERRUPTOR LUZ DE FREIO                                       |SUBSTITUIÇÃO        |002|
+002015|LÂMPADA DE DIREÇÃO (SETA)                                      |SUBSTITUIÇÃO        |002|
+002016|LÂMPADA DE FAROL                                               |SUBSTITUIÇÃO        |002|
+002017|LÂMPADA DE FREIO                                               |SUBSTITUIÇÃO        |002|
+002018|LÂMPADA DE LANTERNA                                            |SUBSTITUIÇÃO        |002|
+002019|LÂMPADA DE RÉ                                                  |SUBSTITUIÇÃO        |002|
+002020|MOTOR DO LIMPADOR DE PARA-BRISA                                |REVISÃO             |002|
+002021|MOTOR DO LIMPADOR DO VIGIA                                     |REVISÃO             |002|
+002022|PAINEL DE INSTRUMENTOS                                         |REVISÃO             |002|
+002023|VÁLVULA TERMOSTÁTICA                                           |TESTE SUBSTITUIÇÃO  |002|
+002024|VENTILADOR DO RADIADOR                                         |SUBSTITUIÇÃO        |002|
+002025|VIDRO DE ACIONAMENTO ELÉTRICO                                  |SUBSTITUIÇÃO/CADA   |002|
+003001|MOTOR DE PARTIDA                                               |REVISAR             |003|
+003002|PARTIDA À FRIO                                                 |REVISAR             |003|
+005001|REGULAGEM GERAL DE MOTOR                                       |SERVIÇO             |005|
+005002|REGULAGEM SIMPLES DE MOTOR                                     |SERVIÇO             |005|
+006001|BÓIA TANQ. COMBUSTÍVEL C/ VIGIA                                |SUBSTITUIÇÃO        |006|
+006002|BÓIA TANQ. COMBUSTÍVEL S/ VIGIA                                |SUBSTITUIÇÃO        |006|
+006003|BOMBA D´AGUA                                                   |SUBSTITUIÇÃO        |006|
+006004|BOMBA DE COMB. INTERNA C/ VIGIA                                |SUBSTITUIÇÃO        |006|
+006005|BOMBA DE COMB. INTERNA S/ VIGIA                                |SUBSTITUIÇÃO        |006|
+006006|BOMBA DE COMBUSTÍVEL                                           |TESTE               |006|
+006007|BOMBA DE COMBUSTÍVEL EXTERNA                                   |SUBSTITUIÇÃO        |006|
+006008|BOMBA DE ÓLEO                                                  |SUBSTITUIÇÃO        |006|
+006009|BOMBA DE ÓLEO                                                  |TESTE               |006|
+006010|CABEÇOTE 12V                                                   |SUBSTITUIÇÃO        |006|
+006011|CABEÇOTE 12V                                                   |REVISÃO GERAL       |006|
+006012|CABEÇOTE 16V                                                   |SUBSTITUIÇÃO        |006|
+006013|CABEÇOTE 16V                                                   |REVISÃO GERAL       |006|
+006014|CABEÇOTE 20V                                                   |SUBSTITUIÇÃO        |006|
+006015|CABEÇOTE 20V                                                   |REVISÃO GERAL       |006|
+006016|CABEÇOTE 8V                                                    |SUBSTITUIÇÃO        |006|
+006017|CABEÇOTE 8V                                                    |REVISÃO GERAL       |006|
+006018|CABO DE ACELERADOR                                             |SUBSTITUIÇÃO        |006|
+006019|CABO DE AFOGADOR                                               |SUBSTITUIÇÃO        |006|
+006020|CARTER MOTOR                                                   |SUBSTITUIÇÃO        |006|
+006021|COMANDO DE VÁLVULAS 12V                                        |SUBSTITUIÇÃO        |006|
+006022|COMANDO DE VÁLVULAS 16V                                        |SUBSTITUIÇÃO        |006|
+006023|COMANDO DE VÁLVULAS 20V                                        |SUBSTITUIÇÃO        |006|
+006024|COMANDO DE VÁLVULAS 8V                                         |SUBSTITUIÇÃO        |006|
+006025|CORREIA DENTADA / DISTRIBUIÇÃO                                 |SUBSTITUIÇÃO        |006|
+006026|CORREIA DO MOTOR POLI V ÚNICA                                  |SUBSTITUIÇÃO        |006|
+006027|COXIM DO MOTOR                                                 |SUBSTITUIÇÃO        |006|
+006028|ENGRENAGEM GIRABR. C/ CORREIA                                  |SUBSTITUIÇÃO        |006|
+006029|GARGALO TANQ. COMBUSTÍVEL                                      |SUBSTITUIÇÃO        |006|
+006030|JUNTA DE CABEÇOTE 12V                                          |SUBSTITUIÇÃO        |006|
+006031|JUNTA DE CABEÇOTE 16V                                          |SUBSTITUIÇÃO        |006|
+006032|JUNTA DE CABEÇOTE 20V                                          |SUBSTITUIÇÃO        |006|
+006033|JUNTA DE CABEÇOTE 8V                                           |SUBSTITUIÇÃO        |006|
+006034|JUNTA DO CARTER MOTOR                                          |SUBSTITUIÇÃO        |006|
+006035|JUNTA TAMPA DE VÁLVULA                                         |SUBSTITUIÇÃO        |006|
+006036|MANGUEIRA RADIADOR / MOTOR (TODAS)                             |SUBSTITUIÇÃO        |006|
+006037|MOTOR                                                          |SERVIÇO GERAL       |006|
+006038|POLIA TENSORA                                                  |SUBSTITUIÇÃO        |006|
+006039|RADIADOR                                                       |SUBSTITUIÇÃO        |006|
+006040|RESERVATÓRIO D´AGUA DO RADIADOR                                |SUBSTITUIÇÃO        |006|
+006041|RESPIRO DO MOTOR                                               |LIMPEZA             |006|
+006042|RETENTOR COMANDOS DE VÁLVULAS                                  |SUBSTITUIÇÃO        |006|
+006043|RETENTOR DE POLIA DO MOTOR                                     |SUBSTITUIÇÃO        |006|
+006044|RETENTOR TRAS. MOTOR (VOLANTE)                                 |SUBSTITUIÇÃO        |006|
+006045|SELO DO BLOCO DO MOTOR                                         |SUBSTITUIÇÃO        |006|
+006046|SELO DO CABEÇOTE FRONTAL                                       |SUBSTITUIÇÃO        |006|
+006047|SUB QUADRO MOTOR                                               |SUBSTITUIÇÃO        |006|
+006048|TANQUE DE COMBUSTÍVEL                                          |SUBSTITUIÇÃO        |006|
+006049|TANQUE DE COMBUSTÍVEL                                          |LIMPEZA             |006|
+006050|TUBO ALIMENTAÇÃO DE COMBUSTÍVEL                                |SUBSTITUIÇÃO        |006|
+006051|TUBO DE ÁGUA MOTOR                                             |SUBSTITUIÇÃO        |006|
+006052|TUBO RETORNO DE COMBUSTÍVEL                                    |SUBSTITUIÇÃO        |006|
+006053|VÁLVULAS                                                       |SUBSTITUIÇÃO        |006|

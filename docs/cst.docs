@@ -1,0 +1,11 @@
+00|TRIBUTADA INTEGRALMENTE                                                         	|T	|  |
+10|TRIBUTADA E COM COBRANÇA DO ICMS POR SUBSTITUIÇÃO TRIBUTÁRIA                    	|F	|FF|
+20|COM REDUÇÃO DE BASE DE CÁLCULO                                                  	|T	|  |
+30|ISENTA OU NÃO TRIBUTADA E COM COBRANÇA DO ICMS POR SUBSTITUIÇÃO TRIBUTÁRIA      	|F	|II|
+40|ISENTA                                                                          	|F	|II|
+41|NÃO TRIBUTADA                                                                   	|F	|NN|
+50|SUSPENSÃO                                                                       	|F	|NN|
+51|DIFERIMENTO                                                                     	|F	|NN|
+60|ICMS COBRADO ANTERIORMENTE POR SUBSTITUIÇÃO TRIBUTÁRIA                          	|F	|FF|
+70|COM REDUÇÃO DE BASE DE CÁLCULO E COBRANÇA DO ICMS POR SUBSTITUIÇÃO TRIBUTÁRIA   	|F	|FF|
+90|OUTRAS                                                                          	|T	|  |

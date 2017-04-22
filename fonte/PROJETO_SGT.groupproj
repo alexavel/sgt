@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{25FF7F8E-EDCB-4D0C-BBE1-57554D7E336B}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="SGT.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ativa\Pativador.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SGT">
+        <MSBuild Projects="SGT.dproj"/>
+    </Target>
+    <Target Name="SGT:Clean">
+        <MSBuild Projects="SGT.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SGT:Make">
+        <MSBuild Projects="SGT.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Pativador">
+        <MSBuild Projects="ativa\Pativador.dproj"/>
+    </Target>
+    <Target Name="Pativador:Clean">
+        <MSBuild Projects="ativa\Pativador.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Pativador:Make">
+        <MSBuild Projects="ativa\Pativador.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SGT;Pativador"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SGT:Clean;Pativador:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SGT:Make;Pativador:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
